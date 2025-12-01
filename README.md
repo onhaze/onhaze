@@ -1,2 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=_custom_gradient&color=ffcaca&height=400&section=header&text=ONHAZE'S&fontAlignY=45&fontColor=474747&desc=GITHUB&descSize=60&descAlign=55&descAlignY=62&fontSize=80&stroke=474747&strokeWidth=5&animation=twinkling)
 
+![header](https://capsule-render.vercel.app/api?type=blur&color=_custom_gradient&color=ffcaca&height=300&section=header&text=ONHAZE'S&fontAlignY=45&fontColor=474747&desc=GITHUB&descSize=45&descAlign=54&descAlignY=58&fontSize=50&stroke=474747&strokeWidth=3&animation=twinkling)
+
