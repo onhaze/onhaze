@@ -1,3 +1,3 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=_custom_gradient&color=ffcaca&height=400&section=header&text=ONHAZE'S&fontAlignY=45&fontColor=474747&desc=GITHUB&descSize=60&descAlign=55&descAlignY=62&fontSize=80&stroke=474747&strokeWidth=5&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=575757&center=true&vCenter=true&multiline=true&repeat=false&width=524&height=100&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%B2%9C%EC%98%88%EC%98%81%EC%9E%85%EB%8B%88%EB%8B%A4.;Hello%2C+My+name+is+Cheon+Yeyoung.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=575757&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%B2%9C%EC%98%88%EC%98%81%EC%9E%85%EB%8B%88%EB%8B%A4.;Hello%2C+My+name+is+Cheon+Yeyoung.)](https://git.io/typing-svg)
