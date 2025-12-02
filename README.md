@@ -10,7 +10,7 @@
 
 
 <!-- solved.ac -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="Grey Heart" width="30" height="30" style="vertical-align: middle;" /> <span style="color:#ffcaca;font-size: 40px">solved\.ac</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="Grey Heart" width="30" height="30" style="vertical-align: middle;" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="Grey Heart" width="30" height="30" style="vertical-align: middle;" /> <span style="color:#ffcaca;font-size: 40px;">solved\.ac</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="Grey Heart" width="30" height="30" style="vertical-align: middle;" />
 
 <!-- solved.ac widget -->
 <div align="center">
