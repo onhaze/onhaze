@@ -8,6 +8,16 @@
     <img src="https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=454343&center=true&vCenter=true&multiline=true&width=440&height=100&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%B2%9C%EC%98%88%EC%98%81%EC%9E%85%EB%8B%88%EB%8B%A4.;Hello%2C+My+name+is+Cheon+Yeyoung." alt="Intro" /></a>
 </p>
 
+<div align="center">
+    <p>
+        <i>🎓 Soonchunhyang University, B.S. in Internet of Things (IoT) (Expected Graduation)</i>
+        <br>
+        <i>🎯 Interested in: Game Planning/QA/Development, Web Design</i>
+    </p>
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="21" height="21" style="vertical-align:middle;" /> stacks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="21" height="21" style="vertical-align: middle;" />
+
 <!-- 기술 스택 -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="21" height="21" style="vertical-align:middle;" /> stacks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="21" height="21" style="vertical-align: middle;" />
 
