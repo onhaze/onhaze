@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/mysql-ffffff?style=flat-square&logo=mysql&logoColor=4479A1"/>
     <img src="https://img.shields.io/badge/html5-ffffff?style=flat-square&logo=html5&logoColor=E34F26"/>
     <img src="https://img.shields.io/badge/css-ffffff?style=flat-square&logo=css&logoColor=663399"/>
-    <img src="https://img.shields.io/badge/xml-ffffff?style=flat-square&logo=xml&logoColor=005FAD"/>
+    <img src="https://img.shields.io/badge/xml-ffffff?style=flat-square&logo=xml&logoColor=005FAD"/><br>
     <img src="https://img.shields.io/badge/boot_strap-ffffff?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
     <img src="https://img.shields.io/badge/json-ffffff?style=flat-square&logo=json&logoColor=000000"/>
     <img src="https://img.shields.io/badge/linux-ffffff?style=flat-square&logo=linux&logoColor=FCC624"/>
@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/github-ffffff?style=flat-square&logo=github&logoColor=181717"/>
     <img src="https://img.shields.io/badge/google_sheets-ffffff?style=flat-square&logo=googlesheets&logoColor=34A853"/>
     <img src="https://img.shields.io/badge/instagram-ffffff?style=flat-square&logo=instagram&logoColor=FF0069"/>
-    <img src="https://img.shields.io/badge/kakaotalk-ffffff?style=flat-square&logo=kakaotalk&logoColor=FFCD00"/>
+    <img src="https://img.shields.io/badge/kakaotalk-ffffff?style=flat-square&logo=kakaotalk&logoColor=FFCD00"/><br>
     <img src="https://img.shields.io/badge/notion-ffffff?style=flat-square&logo=notion&logoColor=000000"/>
     <img src="https://img.shields.io/badge/steam-ffffff?style=flat-square&logo=steam&logoColor=000000"/>
     <img src="https://img.shields.io/badge/whatsapp-ffffff?style=flat-square&logo=whatsapp&logoColor=25D366"/>
