@@ -1,6 +1,6 @@
 <!-- 헤더이미지 -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=_custom_gradient&color=ffcaca&height=400&section=header&text=ONHAZE'S&fontAlignY=45&fontColor=474747&desc=GITHUB&descSize=60&descAlign=55&descAlignY=62&fontSize=80&stroke=474747&strokeWidth=5&animation=twinkling" alt="headerImg"  /></a>
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=_custom_gradient&color=ffcaca&height=400&section=header&text=ONHAZE'S&fontAlignY=45&fontColor=474747&desc=GITHUB&descSize=60&descAlign=55&descAlignY=62&fontSize=80&stroke=474747&strokeWidth=5&animation=none" alt="headerImg"  /></a>
 </p>
 
 <!-- 자기소개창 -->
