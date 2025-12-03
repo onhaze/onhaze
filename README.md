@@ -17,7 +17,11 @@
 <!-- 기술스택 위젯 -->
 <div align="center">
 <p>
-
+    <img src="https://img.shields.io/badge/python-white?style=plastic&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/python-white?style=social&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/python-white?style=flat&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/python-white?style=flat-square&logo=python&logoColor=#3776AB"/>
 </p>
 </div>
 
@@ -26,7 +30,11 @@
 <!-- 기술스택 위젯 -->
 <div align="center">
 <p>
-
+    <img src="https://img.shields.io/badge/python-white?style=plastic&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/python-white?style=social&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/python-white?style=flat&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/python-white?style=flat-square&logo=python&logoColor=#3776AB"/>
 </p>
 </div>
 
@@ -35,7 +43,12 @@
 <!-- 기술스택 위젯 -->
 <div align="center">
 <p>
-
+    <img src="https://img.shields.io/badge/python-white?style=plastic&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/python-white?style=social&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/python-white?style=flat&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/python-white?style=flat-square&logo=python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/공식_명칭-white?style=flat-square&logo=공식_명칭&logoColor=#3776AB"/>
 </p>
 </div>
 
