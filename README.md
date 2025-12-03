@@ -9,9 +9,38 @@
     <img src="https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=454343&center=true&vCenter=true&multiline=true&width=440&height=100&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%B2%9C%EC%98%88%EC%98%81%EC%9E%85%EB%8B%88%EB%8B%A4.;Hello%2C+My+name+is+Cheon+Yeyoung." alt="Intro" /></a>
 </p>
 
+<!-- 기술 스택 -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="21" height="21" style="vertical-align:middle;" /> stacks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="21" height="21" style="vertical-align: middle;" />
+
+### 🌱 Studying
+
+<!-- 기술스택 위젯 -->
+<div align="center">
+<p>
+
+</p>
+</div>
+
+### ✍🏻 Learned
+
+<!-- 기술스택 위젯 -->
+<div align="center">
+<p>
+
+</p>
+</div>
+
+### 🛠️ Collaboration Tools
+
+<!-- 기술스택 위젯 -->
+<div align="center">
+<p>
+
+</p>
+</div>
 
 <!-- solved.ac -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="21" height="21" style="vertical-align:;" /> solved\.ac <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="21" height="21" style="vertical-align: middle;" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align:middle;" /> solved\.ac <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align: middle;" />
 
 <!-- solved.ac 위젯 -->
 <div align="center">
