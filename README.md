@@ -49,6 +49,8 @@
     <img src="https://img.shields.io/badge/markdown-ffffff?style=flat-square&logo=markdown&logoColor=000000"/>
     <img src="https://img.shields.io/badge/pandas-ffffff?style=flat-square&logo=pandas&logoColor=150458"/>
     <img src="https://img.shields.io/badge/r-ffffff?style=flat-square&logo=r&logoColor=276DC3"/>
+    <img src="https://img.shields.io/badge/mongoDB-ffffff?style=flat-square&logo=mongoDB&logoColor=47A248"/>
+    <img src="https://img.shields.io/badge/node.js-ffffff?style=flat-square&logo=node.js&logoColor=339933"/>
 </p>
 </div>
 
