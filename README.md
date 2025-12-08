@@ -61,6 +61,7 @@
     <img src="https://img.shields.io/badge/intelliJ_IDEA-ffffff?style=flat-square&logo=intellijidea&logoColor=000000"/>
     <img src="https://img.shields.io/badge/jupyter-ffffff?style=flat-square&logo=jupyter&logoColor=F37626"/>
     <img src="https://img.shields.io/badge/spring-ffffff?style=flat-square&logo=spring&logoColor=6DB33F"/>
+    <img src="https://img.shields.io/badge/anaconda-ffffff?style=flat-square&logo=anaconda&logoColor=44A833"/>
 </p>
 </div>
 
