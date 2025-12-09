@@ -16,18 +16,6 @@
     </p>
 </div>
 
-<!-- 자주 사용하는 언어 -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="21" height="21" style="vertical-align:middle;" /> Languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="21" height="21" style="vertical-align:middle;" />
-<p align="center">
-  <img src="metrics.plugin.starlists.languages.svg" alt="Featured Star List Languages" />
-</p>
-
-<!-- 유튜브 플리 -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align:middle;" /> Music Playlist <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align:middle;" />
-<p align="center">
-  <img src="https://metrics.lecoq.io/onhaze?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&music=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&music=false&music.provider=youtube&music.user=.user.login&music.mode=playlist&music.playlist=https%3A%2F%2Fmusic.youtube.com%2Fplaylist%3Flist%3DPLkp41XcCEBcmFWSfqHR-RMPYgeqCdsR8v&music.limit=3&music.played.at=false&music.time.range=long&music.top.type=tracks&config.timezone=Asia%2FSeoul" alt="GitHub Music Metrics (YouTube Music Playlist)" />
-</p>
-
 <!-- 기술 스택 -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="21" height="21" style="vertical-align:middle;" /> stacks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="21" height="21" style="vertical-align: middle;" />
 
@@ -102,6 +90,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align:middle;" /> solved\.ac <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align: middle;" />
 
 <!-- solved.ac 위젯 -->
+
 <div align="center">
 <p>
     <a href="http://solved.ac/onraon1"><img src="http://mazassumnida.wtf/api/generate_badge?boj=onraon1" alt="solved tier" /></a>
@@ -119,3 +108,17 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=onhaze&custom_title=%20&line=ffcaca&point=ffcaca&bg_color=ffffff&color=454343&grid=true" alt="Github Graph" /></a>
 </p>
 </div>
+
+<!-- 추가 위젯 -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align:middle;" /> Widget <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align:middle;" />
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px;">
+      <img src="metrics.plugin.starlists.languages.svg" alt="Featured Star List Languages" />
+    </td>
+    <td style="border: none; padding: 10px;">
+      <img src="github-metrics.svg" alt="GitHub Metrics - Music" />
+    </td>
+  </tr>
+</table>
