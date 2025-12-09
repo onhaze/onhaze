@@ -25,7 +25,7 @@
 <!-- 유튜브 플리 -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align:middle;" /> Music Playlist <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align:middle;" />
 <p align="center">
-  <img src="https://metrics.lecoq.io/onhaze?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&music=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&music=false&music.provider=youtube&music.user=.user.login&music.mode=playlist&music.playlist=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DOLAK5uy_mNWkxcU6VC_aWOFnpqYha-J5UMzwbVlx4&music.limit=3&music.played.at=false&music.time.range=long&music.top.type=tracks&config.timezone=Asia%2FSeoul" alt="GitHub Music Metrics (YouTube Playlist)" />
+  <img src="https://metrics.lecoq.io/onhaze?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&music=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&music=false&music.provider=youtube&music.user=.user.login&music.mode=playlist&music.playlist=https%3A%2F%2Fmusic.youtube.com%2Fplaylist%3Flist%3DPLkp41XcCEBcmFWSfqHR-RMPYgeqCdsR8v&music.limit=3&music.played.at=false&music.time.range=long&music.top.type=tracks&config.timezone=Asia%2FSeoul" alt="GitHub Music Metrics (YouTube Music Playlist)" />
 </p>
 
 <!-- 기술 스택 -->
