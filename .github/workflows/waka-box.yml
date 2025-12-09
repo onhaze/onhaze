@@ -1,25 +1,17 @@
-name: WakaTime Gist Update
-
+name: Update gist with WakaTime stats
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
+  # Manual triggers with workflow_dispatch
   workflow_dispatch:
-
 jobs:
   update-gist:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Update WakaTime Gist
-        uses: matchai/waka-box@v5.0.0
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: matchai/waka-box@master
+        env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: <d34983ed5e7ba7f5c33713488d464d2f>
-          
-          SHOW_OS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_COMMIT: "False"
-          SHOW_EDITORS: "False"
-          SHOW_SHORT_INFO: "True"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
