@@ -11,7 +11,7 @@ jobs:
       contents: write
     steps:
       - name: Featured star list languages
-      - uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.starlists.languages.svg
           token: ${{ secrets.GH_TOKEN }}
