@@ -107,3 +107,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=onhaze&custom_title=%20&line=ffcaca&point=ffcaca&bg_color=ffffff&color=454343&grid=true" alt="Github Graph" /></a>
 </p>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
