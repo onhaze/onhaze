@@ -8,6 +8,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=454343&center=true&vCenter=true&multiline=true&width=440&height=100&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%B2%9C%EC%98%88%EC%98%81%EC%9E%85%EB%8B%88%EB%8B%A4.;Hello%2C+My+name+is+Cheon+Yeyoung." alt="Intro" /></a>
 </p>
 
+<p align="center">
+  <img src="metrics.plugin.starlists.languages.svg" alt="Featured Star List Languages" />
+</p>
+
 <div align="center">
     <p>
         <i>🎓 Soonchunhyang University, B.S. in Internet of Things (IoT) (Expected Graduation)</i>
