@@ -111,14 +111,9 @@
 
 <!-- 추가 위젯 -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align:middle;" /> Widget <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align:middle;" />
-
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;">
-      <img src="metrics.plugin.starlists.languages.svg" alt="Featured Star List Languages" />
-    </td>
-    <td style="border: none; padding: 10px;">
-      <img src="github-metrics.svg" alt="GitHub Metrics - Music" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+<p>
+  <img src="metrics.plugin.starlists.languages.svg" alt="Featured Star List Languages" />
+  <a href = "https://music.youtube.com/playlist?list=PLkp41XcCEBcmFWSfqHR-RMPYgeqCdsR8v"><img src="github-metrics.svg" alt="GitHub Metrics - Music" /></a>
+</p>
+</div>
