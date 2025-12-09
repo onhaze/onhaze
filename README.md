@@ -109,11 +109,23 @@
 </p>
 </div>
 
-<!-- 추가 위젯 -->
+<!-- 추가 -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align:middle;" /> Widget <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="21" height="21" style="vertical-align:middle;" />
+
+### 💻 Language
+
+<!-- 주요 사용 언어 추가 위젯 -->
 <div align="center">
 <p>
   <img src="metrics.plugin.starlists.languages.svg" alt="Featured Star List Languages" />
+</p>
+</div>
+
+### 🎵 Music Pkaylist
+
+<!-- 플레이리스트 추가 위젯 -->
+<div align="center">
+<p>
   <a href = "https://music.youtube.com/playlist?list=PLkp41XcCEBcmFWSfqHR-RMPYgeqCdsR8v"><img src="github-metrics.svg" alt="GitHub Metrics - Music" /></a>
 </p>
 </div>
