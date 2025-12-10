@@ -23,7 +23,7 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           filename: steam.svg
           # Options
-          user: 76561199079977539
+          user: 76561199079977639
           template: classic
           base: ""
           config_color_text: "#000000"
