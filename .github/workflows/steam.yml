@@ -23,7 +23,7 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           filename: steam.svg
           # Options
-          user: 76561199079977639
+          user: onhaze
           template: classic
           base: ""
           config_color_text: "#000000"
@@ -36,4 +36,4 @@ jobs:
           plugin_steam_playtime_threshold: 4
           plugin_steam_recent_games_limit: 2
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: onhaze
+          plugin_steam_user: "76561199079977539"
