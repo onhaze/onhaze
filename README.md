@@ -126,6 +126,14 @@
 <!-- 플레이리스트 추가 위젯 -->
 <div align="center">
 <p>
-  <a href = "https://music.youtube.com/playlist?list=PLkp41XcCEBcmFWSfqHR-RMPYgeqCdsR8v"><img src="github-metrics.svg" alt="GitHub Metrics - Music" /></a>
+  <a href = "https://music.youtube.com/playlist?list=PLkp41XcCEBcmFWSfqHR-RMPYgeqCdsR8v"><img src="music_activity.svg" alt="GitHub Metrics - Music" /></a>
+</p>
+
+### 🎮 Steam
+
+<!-- 스팀 추가 위젯 -->
+<div align="center">
+<p>
+  <a herf = "https://steamcommunity.com/id/onhaze/"><img src="steam.svg" alt="GitHub Metrics - steam" /></a>
 </p>
 </div>
