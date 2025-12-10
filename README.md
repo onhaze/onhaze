@@ -121,7 +121,7 @@
 </p>
 </div>
 
-### 🎵 Music Pkaylist
+### 🎵 Music Playlist
 
 <!-- 플레이리스트 추가 위젯 -->
 <div align="center">
