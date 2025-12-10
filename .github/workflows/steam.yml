@@ -25,6 +25,9 @@ jobs:
           user: onhaze
           template: classic
           base: ""
+          config_color_text: "#000000"
+          config_color_link: "#000000"
+          config_color_title: "#000000"
           config_timezone: Asia/Seoul
           plugin_steam: yes
           plugin_steam_achievements_limit: 2
