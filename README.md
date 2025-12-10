@@ -117,7 +117,7 @@
 <!-- 주요 사용 언어 추가 위젯 -->
 <div align="center">
 <p>
-  <img src="metrics.plugin.starlists.languages.svg" alt="Featured Star List Languages" />
+  <img src="languages.svg" alt="Featured Star List Languages" />
 </p>
 </div>
 
