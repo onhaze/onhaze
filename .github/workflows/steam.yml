@@ -8,7 +8,7 @@ on:
   push: 
     branches:
       -main
-    path:
+    paths:
       - '.github/workflows/steam.yml'
 jobs:
   github-metrics:
@@ -32,4 +32,4 @@ jobs:
           plugin_steam_playtime_threshold: 4
           plugin_steam_recent_games_limit: 2
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: https://steamcommunity.com/id/onhaze/
+          plugin_steam_user: onhaze
