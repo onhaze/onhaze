@@ -36,6 +36,5 @@ jobs:
           plugin_steam_recent_games_limit: 0
           config_timezone: Asia/Seoul
           plugin_steam: yes
-          plugin_steam_games_limit: 4
           plugin_steam_sections: player, most-played
           plugin_steam_user: "76561199079977639"
