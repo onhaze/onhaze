@@ -26,6 +26,9 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Seoul
+          config_color_text: "#000000"
+          config_color_link: "#000000"
+          config_color_title: "#000000"
           plugin_music: yes
           plugin_music_limit: 3
           plugin_music_mode: playlist
