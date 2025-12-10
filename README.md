@@ -128,6 +128,7 @@
 <p>
   <a href = "https://music.youtube.com/playlist?list=PLkp41XcCEBcmFWSfqHR-RMPYgeqCdsR8v"><img src="music_activity.svg" alt="GitHub Metrics - Music" /></a>
 </p>
+</div>
 
 ### 🎮 Steam
 
@@ -135,5 +136,14 @@
 <div align="center">
 <p>
   <a herf = "https://steamcommunity.com/id/onhaze/"><img src="steam.svg" alt="GitHub Metrics - steam" /></a>
+</p>
+</div>
+
+### 💞 Anilist
+
+<!-- 애니 추가 위젯 -->
+<div align="center">
+<p>
+  <img src="anilist.svg" alt="GitHub Metrics - anilist" />
 </p>
 </div>
