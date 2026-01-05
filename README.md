@@ -27,6 +27,9 @@
     <img src="https://img.shields.io/badge/unity-ffffff?style=flat-square&logo=unity&logoColor=474747"/>
     <img src="https://img.shields.io/badge/aseprite-ffffff?style=flat-square&logo=aseprite&logoColor=7D929E"/>
     <img src="https://img.shields.io/badge/blender-ffffff?style=flat-square&logo=blender&logoColor=E87D0D"/>
+    <img src="https://img.shields.io/badge/react-ffffff?style=flat-square&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/vite-ffffff?style=flat-square&logo=vite&logoColor=646CFF"/>
+    <img src="https://img.shields.io/badge/electron-ffffff?style=flat-square&logo=electron&logoColor=47848F"/>
 </p>
 </div>
 
